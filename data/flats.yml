@@ -1,0 +1,15 @@
+- city: 'Berlin'
+  owner: "Sebastian's Home"
+  description: 'charming house in Berlin'
+  avatar: 'cecile.png'
+  picture: 'berlin.jpg'
+- city: 'Rio'
+  owner: "Gab's Home"
+  description: 'charming house in Rio'
+  avatar: 'gab.png'
+  picture: 'rio.jpg'
+- city: 'Shanghai'
+  owner: "Jad's Home"
+  description: 'charming house in Shanghai'
+  avatar: 'jad.png'
+  picture: 'shanghai.jpg'
